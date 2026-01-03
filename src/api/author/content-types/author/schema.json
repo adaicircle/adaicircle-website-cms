@@ -45,6 +45,10 @@
     },
     "twitter": {
       "type": "string"
+    },
+    "short_bio": {
+      "type": "text",
+      "required": false
     }
   }
 }
